@@ -3,6 +3,8 @@ Classify pair of questions as duplicate or not based on how similar they are
 
 Data_Processing.ipynb - EDA, Data caleaning, pre-processing and feature extraction
 
+Feature_Extraction.ipynb - Feature extraction using TF-IDF
+
 Data_Preparation.ipynb - Split Training and Test data
 
 Final_LogisticRegression_QuestionpairSimilarity.ipynb - Random model and Logistic Regression Model
