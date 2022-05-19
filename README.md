@@ -7,10 +7,10 @@ Data_Preparation.ipynb - Split Training and Test data
 
 Final_LogisticRegression_QuestionpairSimilarity.ipynb - Random model and Logistic Regression Model
 
-Final_Calibrated_RF_BestFit.ipynb - Random Forest Model
+Calibrated_RF_BestFit.ipynb - Random Forest Model
 
 Final_SVM_QuestionPairSimilarity_V02.ipynb - SVM Model
 
-Final_XGBoost-NoSVD-WithCV.ipynb - XGBoost Model
+Quora-Model-NoSVD-WithCV.ipynb - XGBoost Model
 
 Final_Test_V01.csv.zip - Test Data
